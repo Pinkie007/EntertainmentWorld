@@ -1,0 +1,39 @@
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Bot Application1.dll.config
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Bot Application1.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Bot Application1.pdb
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Autofac.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Chronic.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Bot.Builder.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Bot.Connector.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Web.Http.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Web.Http.WebHost.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Autofac.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Bot.Builder.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Bot.Connector.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Net.Http.Formatting.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Web.Http.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\System.Web.Http.WebHost.xml
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\obj\Debug\EntertainmentWorld.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\obj\Debug\Bot Application1.dll
+C:\Users\LENOVO\Documents\GitHub\EntertainmentWorld\EntertainmentWorld\EntertainmentWorld\obj\Debug\Bot Application1.pdb
